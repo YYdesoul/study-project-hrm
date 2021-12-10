@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/hrm_backend/hrm.iml" filepath="$PROJECT_DIR$/hrm_backend/hrm.iml" />
       <module fileurl="file://$PROJECT_DIR$/hrm_backend/ihrm_common/ihrm_common.iml" filepath="$PROJECT_DIR$/hrm_backend/ihrm_common/ihrm_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hrm_backend/ihrm_common_model/ihrm_common_model.iml" filepath="$PROJECT_DIR$/hrm_backend/ihrm_common_model/ihrm_common_model.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/study-project-hrm.iml" filepath="$PROJECT_DIR$/.idea/study-project-hrm.iml" />
     </modules>
   </component>
